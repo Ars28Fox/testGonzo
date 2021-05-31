@@ -3,6 +3,7 @@
 [Project page](https://ars28fox.github.io/testGonzo/)
 
 Написан с ипользованием шаблонизатора pug, использовался препроцессор stylus, javascript и сборщик webpack.
+На github залит уже готовый билд задания.
 В ходе тестового задания было реализовано:
 
 * Кроссбраузерная семантичная верстка на HTML 5 (Браузеры Chrome, Firefox, Safari).
