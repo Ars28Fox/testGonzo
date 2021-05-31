@@ -1,9 +1,5 @@
 # Тестовое задание в компанию GonzoProject
 
-Gulp tasks:
-* gulp start - starting dev
-* gulp build - compile prod
-
 [Project page](https://ars28fox.github.io/testGonzo/)
 
 Написан на чистом html, использовался препроцессор scss, javascript и сборщик gulp.
