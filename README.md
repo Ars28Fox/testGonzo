@@ -4,7 +4,7 @@ Gulp tasks:
 * gulp start - starting dev
 * gulp build - compile prod
 
-[Project page](https://ars28fox.github.io/Sedona-adaptive-2020/)
+[Project page](https://ars28fox.github.io/testGonzo/)
 
 Написан на чистом html, использовался препроцессор scss, javascript и сборщик gulp.
 В ходе учебного проекта было реализовано:
