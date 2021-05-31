@@ -1,7 +1,4 @@
-# testGonzo
-Тестовое задание в компанию GonzoProject
-
-# Учебный проект «Седона»
+# Тестовое задание в компанию GonzoProject
 
 Gulp tasks:
 * gulp start - starting dev
